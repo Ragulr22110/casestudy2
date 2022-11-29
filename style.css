@@ -1,0 +1,23 @@
+
+
+
+table {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    border: 2px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+#logout{
+    text-decoration: none;
+    color: white;
+}
+
+#things{
+    color:white;
+}
